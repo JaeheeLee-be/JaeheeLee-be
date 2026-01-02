@@ -14,7 +14,7 @@
   <br/>
   
   ## 🧱 Tech Stack
-  ### 💻Language
+  ### 💻 Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript-->
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br/>
   
-  ### Framework
+  ### 🩻 Framework
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Django-->

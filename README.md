@@ -1,6 +1,6 @@
 <div>
   <!--Header-->
-  Welcome!! I'm Jaehee Lee. **굵게**
+  **Welcome!! I'm Jaehee Lee.**
   
 </div>
 

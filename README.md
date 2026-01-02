@@ -1,6 +1,6 @@
-fl<div>
+<div>
   <!--Header-->
-  ![header](Welcome!! I'm Jaehee Lee.)
+  Welcome!! I'm Jaehee Lee.
   
 </div>
 

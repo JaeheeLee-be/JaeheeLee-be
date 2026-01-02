@@ -1,6 +1,6 @@
 <div>
   <!--Header-->
-  Welcome!! I'm Jaehee Lee.
+  Welcome!! I'm Jaehee Lee. 👋
   
 </div>
 
@@ -8,9 +8,8 @@
   <!--Body-->
   
   ## About Me 😸
-  #### :raising_hand: I'm a stubborn backend developer ...<br/>
-  #### :fire: I want to be an all-rounder in the backend ...<br/>
-  #### :mortar_board: Kyungpook National University ...
+  #### 😣 I'm a stubborn backend developer ...<br/>
+  #### 😁 I want to be an all-rounder in the backend ...<br/>
   <br/>
   <br/>
   

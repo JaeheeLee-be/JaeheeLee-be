@@ -31,6 +31,11 @@
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
+  ### 🧰 Tools & Environment
+  <!--Github-->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <!--VS cord-->
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 
 <!--

@@ -33,7 +33,7 @@
 
   ### 🧰 Tools & Environment
   <!--Github-->
-  <img src="http://flaticon.com/kr/free-icon/github-logo_25231"/>
+  <img src="http://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
   <!--VS cord-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>

@@ -33,9 +33,9 @@
 
   ### 🧰 Tools & Environment
   <!--Github-->
-  <img src="https://img.shields.io/badge/github-repo-blue?logo=github"/>
+  <img src="https://img.shields.io/badge/github-black?logo=github"/>
   <!--VS cord-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vs%20code-blue?logo=vs%20code"/>
 </div>
 
 <!--

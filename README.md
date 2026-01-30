@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm From a Non-Technical Background to a Growing Developer — Jaehee Lee</h1>
 <h3 align="center">Focused on building strong fundamentals and practical backend systems.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaeheelee-be" alt="jaeheelee-be" /></a> </p>
+
 
 - 📝 I regularly write articles on [https://mynews70769.tistory.com/](https://mynews70769.tistory.com/)
 

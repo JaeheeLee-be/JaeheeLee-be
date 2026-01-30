@@ -1,53 +1,25 @@
-<div>
-  <!--Header-->
-  Welcome!! I'm Jaehee Lee. 👋
-  
-</div>
+<h1 align="center">Hi 👋, I'm From a Non-Technical Background to a Growing Developer — Jaehui Lee</h1>
+<h3 align="center">Focused on building strong fundamentals and practical backend systems.</h3>
 
-<div>
-  <!--Body-->
-  
-  ## About Me 😸
-  #### 😣 I'm a stubborn backend developer ...<br/>
-  #### 😁 I want to be an all-rounder in the backend ...<br/>
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  ### 💻 Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  
-  ### 🩻 Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaeheelee-be" alt="jaeheelee-be" /></a> </p>
 
-  ### 🧰 Tools & Environment
-  <!--Github-->
-  <img src="https://img.shields.io/badge/github-black?logo=github"/>
-  <!--VS cord-->
-  <img src="https://img.shields.io/badge/vs%20code-blue?logo=vs%20code"/>
-</div>
+- 📝 I regularly write articles on [https://mynews70769.tistory.com/](https://mynews70769.tistory.com/)
 
-<!--
-** ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **Python, MySQL, JavaScript**
 
-Here are some ideas to get you started:
-- Hello 👋
-- 🔭 I'm currently working on Git.
-- 🌱 I'm currently learning Git.
-- 🤔 I'm looking for help with Python.
-- 💬 If you have any questions about development, feel free to ask.
-- 📫 Contact: https://mynews70769.tistory.com/manage/
-- ⚡ Fun fact: I'm actually a beginner developer...
--->
+- 📫 How to reach me **clodusky1@gmail.com**
+
+- ⚡ Fun fact **I am passionate about my work**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeheelee-be&show_icons=true&locale=en&layout=compact" alt="jaeheelee-be" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeheelee-be&show_icons=true&locale=en" alt="jaeheelee-be" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeheelee-be&" alt="jaeheelee-be" /></p>
